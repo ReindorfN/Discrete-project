@@ -1,0 +1,13 @@
+Date: 7th March, 2023
+
+Should we use Java or python??d This is an interesting question to ask. 
+
+We are yet to decide on that.
+
+The option we'll choose will depend on which language will  make the task relatively easier
+and also which langauge has frameworks to easily build GUIs.
+
+
+Some resources we'll need to get started will be posted here. 
+
+1. 
