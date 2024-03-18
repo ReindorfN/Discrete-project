@@ -1,4 +1,4 @@
-Date: 7th March, 2023
+Date: 7th March, 2024
 
 Should we use Java or python??d This is an interesting question to ask. 
 
@@ -11,3 +11,17 @@ and also which langauge has frameworks to easily build GUIs.
 Some resources we'll need to get started will be posted here. 
 
 1. 
+
+
+
+Date: 18th March, 2024
+
+- The decision to proceed with Java for the project has been made. 
+- The GUI for the the program has been developed with room for further improvements.
+- One major funcation of the program which is to find the dual of any given propositional logic
+has been developed.
+- It remains two main functions of the program;
+	1. The function to convert a given propositional logic to set notation.
+	2. The function to convert a given propositional logic to boolean logic.
+
+- Hopefully, the second major function of the program stands to be completed today.
